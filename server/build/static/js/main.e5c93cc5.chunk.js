@@ -1,0 +1,2 @@
+(this["webpackJsonpask-openai"]=this["webpackJsonpask-openai"]||[]).push([[0],[,,,function(e,n,a){e.exports=a(10)},,,,,function(e,n,a){},function(e,n,a){},function(e,n,a){"use strict";a.r(n);var t=a(0),r=a.n(t),c=a(2),o=a.n(c);a(8),a(9);var s=function(){return r.a.createElement("div",{className:"App"},r.a.createElement("header",{className:"App-header"},"ask-openai"))};o.a.render(r.a.createElement(r.a.StrictMode,null,r.a.createElement(s,null)),document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.e5c93cc5.chunk.js.map
